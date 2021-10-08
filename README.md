@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @marshalwahlexyz
-- 👀 I’m interested in Cloud computing, Machine learning, Product design and cyber security
-- 🌱 I’m currently learning Python,Cloud computing(AWS), adn Machine Learning
-- 💞️ I’m looking to collaborate on Python, MAchine Learning and cloud projects 
+- 
+- 👀 I’m interested in Cloud computing, Cyber Security Machine learning, and Product design
+- I'm curerently a Python DEV,Cloud Certifed Associate, Network Security/ Vulnerability Assessment Analyst 
+- 🌱 I’m currently learning Cloud computing(AWS), and Machine Learning
+- 💞️ I’m looking to collaborate on Python, Machine Learning and cloud projects 
 - 📫 How to reach me: mail:ak4scholarship@gmail.com
 
 <!---
